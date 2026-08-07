@@ -1,6 +1,6 @@
 # 🧮 CLI Calculator
 
-A simple command-line calculator written in Rust that supports basic arithmetic operations. Built with Rust 🦀
+A simple command-line calculator written in Rust that supports basic arithmetic operations.
 
 ## ⚙️ Features
 
